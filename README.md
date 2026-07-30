@@ -31,4 +31,15 @@ If automatic download is unavailable, the dataset can also be obtained from:
 - Aggregation Algorithm: Federated Averaging (FedAvg)
 
 # Results
-The experimental results demonstrate that Federated Learning achieves competitive intrusion detection performance while preserving data privacy by keeping training data decentralized.
+Centralized Random Forest
+- Accuracy: 97.37%
+- Precision: 95.86%
+- Recall: 99.81%
+- F1-Score:97.80%
+Federated Learning
+- Accuracy: 94.33%
+- Precision: 91.69%
+- Recall: 99.30%
+- F1-Score: 95.34%
+
+The results demonstrate that the centralized Random Forest model achieved the highest overall performance. However, the Federated Learning model maintained competitive intrusion detection performance while preserving data privacy by keeping training data decentralized, making it a viable privacy-preserving alternative for Industrial Internet of Things (IIoT) environments.
