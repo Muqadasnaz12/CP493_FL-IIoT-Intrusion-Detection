@@ -36,6 +36,7 @@ Centralized Random Forest
 - Precision: 95.86%
 - Recall: 99.81%
 - F1-Score:97.80%
+
 Federated Learning
 - Accuracy: 94.33%
 - Precision: 91.69%
